@@ -1,0 +1,30 @@
+_repo: Claes-Flemings-tider-Dramatisk-dikt-i-fem-akter_62471
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cygnaeus, Fredrik
+    alias: Cygnaeus, Fredr. (Fredrik)
+    birthdate: 1807
+    deathdate: 1881
+    gutenberg_agent_id: '51958'
+    url: http://www.gutenberg.org/2009/agents/51958
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Fredrik_Cygnaeus
+    - https://sv.wikipedia.org/wiki/Fredrik_Cygn%C3%A6us
+description: ''
+gutenberg_issued: '2020-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62471'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical drama'
+- !lcsh 'Finland -- History -- Club War, 1596-1597 -- Drama'
+- !lcsh 'Swedish drama'
+- !lcc 'PT'
+- GITenberg
+title: 'Claes Flemings tider: Dramatisk dikt i fem akter'
+url: http://www.gutenberg.org/ebooks/62471
