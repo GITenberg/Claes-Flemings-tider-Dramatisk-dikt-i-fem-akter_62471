@@ -1,5 +1,8 @@
 _repo: Claes-Flemings-tider-Dramatisk-dikt-i-fem-akter_62471
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cygnaeus, Fredrik
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Fredrik_Cygnaeus
     - https://sv.wikipedia.org/wiki/Fredrik_Cygn%C3%A6us
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62471#Claes-Flemings-tider-Dramatisk-dikt-i-fem-akter
 gutenberg_issued: '2020-06-25'
 gutenberg_type: Text
 identifiers:
